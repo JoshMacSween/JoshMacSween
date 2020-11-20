@@ -1,9 +1,14 @@
 ### Hi there 👋
-I am Josh MacSween, I am a Full-Stack React developer looking for a great company. 
+I am ⚡Josh MacSween⚡, I am a Full-Stack React developer local to Edmonton, Alberta looking for a great company to build great things with and learn new skills through.
+I love learning new things and have an insatiable sense of curiosity, if you know of a cool library I should check out, don't hesitate to drop me a line!
+
 
 ### I'm currently learning
 - Gatsby
 - Firebase
+
+ ### 📫 All of my contact information can be found on my virtual portfolio
+- https://joshmacsween.netlify.app/
 
 <!--
 **JoshMacSween/JoshMacSween** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
