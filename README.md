@@ -4,12 +4,8 @@ I love learning new things and have an insatiable sense of curiosity, if you kno
 
 
 ### I'm currently learning
-- Gatsby
-- Firebase
-- Brushing up on my old Vue skills
-- Puppeteer
-- Building a command line application with node.js
-
+- C#
+- .Net Core
 
  ### 📫 All of my contact information can be found on my virtual portfolio
 - https://joshmacsween.netlify.app/
