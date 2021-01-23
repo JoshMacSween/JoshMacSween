@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am ⚡Josh MacSween⚡, I am a Full-Stack React developer local to Edmonton, Alberta looking for a great company to build great things with and learn new skills through.
+I am ⚡Josh MacSween⚡, I am a Full-Stack developer specializing in the MERN stack (MongoDB, Express, React, Node). I live in Edmonton, Alberta and I am looking for a great company to build great things with and learn new skills through.
 I love learning new things and have an insatiable sense of curiosity, if you know of a cool library I should check out, don't hesitate to drop me a line!
 
 
