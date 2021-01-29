@@ -5,8 +5,10 @@ I love learning new things and have an insatiable sense of curiosity, if you kno
 
 ### I'm currently learning
 - C#
-- .Net Core
+- ASP.Net Core
 - Rails
+- Gatsby
+- React Native
 
  ### 📫 All of my contact information can be found on my virtual portfolio
 - https://joshmacsween.netlify.app/
