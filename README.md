@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am ⚡Josh MacSween⚡, I am a work as a Software Engineer at Jobber
+I am ⚡Josh MacSween⚡, I am a Software Engineer at Jobber
 
 
 <!--
